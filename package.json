@@ -19,7 +19,7 @@
   },
   "keywords": [
     "url",
-    "partial url",
+    "relative url",
     "url template"
   ],
   "devDependencies": {
